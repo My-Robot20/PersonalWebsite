@@ -5,6 +5,7 @@ This website showcases things I love to do as well as my dev portfolio!
 To run this site locally do the following below:
 
 
+
 1. Install the dependencies: 
    `npm install -g npm`
    `npm install react-router-dom` 
@@ -17,3 +18,4 @@ To run this site locally do the following below:
 3. cd into the repo directory on your local machine: `cd PersonalWebsite`
 
 4. Run `npm start`   
+
