@@ -64,7 +64,7 @@ function AboutContent() {
             Musk! I love his passion for developing sustainable and renewable
             energy as well as interstellar travel. If we can develop more minds
             to love STEM and grow in it, as a race we would be able to solve so
-            many complex problems{' '}
+            many complex problems.
           </p>
         </div>
         <div className='col'>
