@@ -15,7 +15,7 @@ function Cards(props) {
         </Card.Body>
       </Card>
     </>
-  )
+  );
 }
 
 export default Cards
