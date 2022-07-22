@@ -1,6 +1,6 @@
 import React from 'react';
 import '../scss/Portfolio.scss'
-import NavBar from './NavBar';
+import NavBar from '../components/NavBar';
 
 function Portfolio() {
   return (

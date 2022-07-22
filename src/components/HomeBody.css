@@ -94,6 +94,15 @@
    }
 }
 
+/* Surface Pro */
+
+@media only screen and (min-width: 912px) {
+    .cards-Container{
+      margin-left: 100px;
+    }
+ 
+}
+
 /* Mac, PC and large devices */  
 @media only screen and (min-width: 1000px) and (max-width: 3000px) {
 	 .cards-Container{

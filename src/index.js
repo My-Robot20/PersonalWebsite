@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import About from './routes/About';
-import Portfolio from './components/Portfolio';
+import Portfolio from './routes/Portfolio';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
