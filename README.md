@@ -16,4 +16,4 @@ To run this site locally do the following below:
 
 3. cd into the repo directory on your local machine: `cd PersonalWebsite`
 
-4. run `npm start`   
+4. Run `npm start`   
