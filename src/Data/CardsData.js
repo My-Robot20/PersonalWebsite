@@ -21,6 +21,6 @@ export const CardsData = [
     id: 4,
     img: '/images/sports.jpeg',
     title: 'Sports',
-    text: 'My favourite sport is Soccer! However, I enjoy Basketball, Tennis and Ping-Pong! I also love watching UFC Fights occassionally.',
+    text: 'My favourite sport is Soccer and I support Arsenal FC! However, I enjoy Basketball, Tennis and Ping-Pong! I also love watching UFC Fights occassionally.',
   },
 ]
