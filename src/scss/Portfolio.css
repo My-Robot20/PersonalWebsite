@@ -1,0 +1,83 @@
+.portfolio-container {
+  margin-top: 100px;
+}
+
+.port-header {
+  text-align: center;
+  color: #a503fc;
+  font-weight: lighter;
+}
+
+.image-style {
+  width: 100%;
+  max-width: 100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 40px 40px;
+  grid-gap: 16px;
+  padding: 16px;
+}
+
+.header {
+  background-color: pink;
+}
+
+.menu {
+  background-color: pink;
+}
+
+.content {
+  background-color: pink;
+}
+
+.my-footer {
+  background-color: pink;
+}
+
+/* 
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 40px 100px 40px;
+  padding: 16px;
+  grid-gap: 3px;
+}
+
+.header {
+  grid-column: span 12;
+  background-color: red;
+}
+
+.menu {
+  grid-column: span 4;
+  background-color: blue;
+}
+.content {
+  grid-column: span 8;
+  background-color: green;
+}
+
+.footer {
+  grid-column: span 12;
+  background-color: pink;
+}
+
+@media screen and (max-width: 480px) {
+  .header {
+    grid-column: span 6;
+  }
+
+  .menu {
+    //grid-row: 1;
+    grid-column: span 6;
+    //align-self: start;
+  }
+  .content {
+    grid-column: span 12;
+  }
+}
+
+*//*# sourceMappingURL=Portfolio.css.map */

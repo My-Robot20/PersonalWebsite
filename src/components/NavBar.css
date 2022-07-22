@@ -1,0 +1,20 @@
+.bg-styleA{
+    background-color: #a503fc;
+      
+}
+
+.icon{
+    margin-left: 20px;
+}
+
+/*
+.nav-links{
+    color: red;
+}
+*/
+
+
+.nav-links:hover {
+ /*will change background-color of element on hover */
+color: white; /*will change color of text within the element on hover */
+}

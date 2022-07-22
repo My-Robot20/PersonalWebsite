@@ -1,0 +1,53 @@
+.about-Container {
+  margin-top: 100px;
+}
+
+.text-color {
+  color: red;
+}
+
+.image-style {
+  width: 100%;
+  max-width: 100%;
+}
+
+.about-main-header {
+  text-align: center;
+  color: #a503fc;
+  font-weight: lighter;
+}
+
+.content-Header {
+  color: #a503fc;
+  font-weight: 200;
+}
+
+.grid {
+  /* .grid Handles mobile first before implementing media queries for responsive */
+  display: grid;
+  grid-gap: 16px;
+  padding: 16px;
+  /*
+     @media (min-width: 960px){
+
+
+         grid-template-columns: repeat(3, 1fr); 
+    }
+     @media (min-width: 1200px){
+
+
+         grid-template-columns: repeat(4, 1fr); 
+    }
+    */
+}
+@media (min-width: 768px) {
+  .grid {
+    /* Tablet */
+    /* grid-template-columns: 5fr 1fr 1fr 1fr; -- this will be able to customize the col width of a particular grid */
+    grid-template-columns: repeat(2, 1fr); /* (2 - number of columns, 1fr stands for 1 fraction */
+  }
+}
+.grid .col {
+  padding: 16px;
+  align-self: start; /* Content only takes up height they need in each col */
+}/*# sourceMappingURL=About.css.map */

@@ -1,0 +1,17 @@
+.footer-container {
+  margin-top: 200px;
+}
+.footer {
+  
+  
+  background-color: #394f6d;
+  width: auto;
+  height: 60px;
+  
+  
+}
+
+.footer-content{
+    color: white;
+    text-align: center;
+}
