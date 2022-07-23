@@ -12,11 +12,11 @@ To run this site locally do the following below:
 
 4. Run `npm start`
 
-## Incase of Errors with running the program 
+##### Incase of Errors with running the program 
    Ensure you have React-Router and React-bootstrap installed on your local machine <br>
    React router install `npm install react-router-dom` <br>
    React bootstrap install `npm install react-bootstrap bootstrap`
 
    Ensure Font-awesome is installed for the coding symbol in the Navbar <br>
-   link attached for font-awesome packages 	[Font-awesome installation](https://fontawesome.com/docs/web/use-with/react/)
+   Link attached for font-awesome packages 	[Font-awesome installation](https://fontawesome.com/docs/web/use-with/react/)
 
