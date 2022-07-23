@@ -13,7 +13,8 @@ To run this site locally do the following below:
 4. Run `npm start`
 
 ### Incase of Errors with running the program 
-   Ensure you have React-Router and React-bootstrap installed on your local machine <br>
+   Ensure you have Sass, React-Router and React-bootstrap installed on your local machine <br>
+   Install Sass `npm install sass`
    React router install `npm install react-router-dom` <br>
    React bootstrap install `npm install react-bootstrap bootstrap`
 
