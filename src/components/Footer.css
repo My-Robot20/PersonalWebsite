@@ -1,13 +1,25 @@
 .footer-container {
-  margin-top: 200px;
+  /*margin-top: 200px;*/
+ 
 }
-.footer {
+body{
+  position: relative;
+  padding-bottom: 58px;
+  min-height: 100vh;
+}
+footer {
   
-  
+  position: sticky;
+  top: 100%;
   background-color: #394f6d;
-  width: auto;
-  height: 60px;
+  width: 100%;
+  bottom: 0;
+  /*
+  bottom: 0;
+  padding: 20px;
   
+  width: 100%;
+  text-align: center;*/
   
 }
 
@@ -15,3 +27,6 @@
     color: white;
     text-align: center;
 }
+
+
+

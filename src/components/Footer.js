@@ -4,7 +4,7 @@ import './Footer.css';
 
 function Footer() {
   return (
-    <div className='footer-container'>
+    <>
       <footer className='footer'>
         <div className='footer-content'>
           &copy; Daniel Braimah
@@ -18,8 +18,8 @@ function Footer() {
           </p>
         </div>
       </footer>
-    </div>
-  )
+    </>
+  );
 }
 
 export default Footer;
